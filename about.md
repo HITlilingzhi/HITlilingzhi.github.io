@@ -18,7 +18,7 @@ header-img: "img/green.jpg"
 # 个人信息
 
 *   李凌志/男/1995
-*   本科/广东工业大学 
+*   本科/哈尔滨工业大学
 *   技术博客: <http://www.lilingzhi.top>
 *   Github: <https://github.com/HITlilingzhi>
 *   目前读研于：HIT-SCIR
